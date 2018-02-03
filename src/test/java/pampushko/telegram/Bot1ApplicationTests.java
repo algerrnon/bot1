@@ -9,10 +9,10 @@ import org.springframework.test.context.junit4.SpringRunner;
 @SpringBootTest
 public class Bot1ApplicationTests
 {
-
+	
 	@Test
 	public void contextLoads()
 	{
 	}
-
+	
 }
